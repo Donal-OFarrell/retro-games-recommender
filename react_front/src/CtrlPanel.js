@@ -14,7 +14,6 @@ class CtrlPanel extends Component {
     // onload we want to ping the api for all the game names and ids 
     componentDidMount () {
 
-        console.log('Component did mount triggered')
 
         axios.get( '/onLoadGameData/' )
             .then( response => {
@@ -39,7 +38,6 @@ class CtrlPanel extends Component {
 
         }
 
-        // console.log(data_returned);
 
 
         // then if successful render the Search Jsx element which will receive the data as a prop

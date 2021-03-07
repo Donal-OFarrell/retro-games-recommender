@@ -35,7 +35,7 @@ const Search = (props) =>  {
 
   const getRecs = (buttonType) => {
     if ((multiSelections.length > 0 && getRecommendations) || (randomRecs && buttonType === 'random')){
-      console.log('ping');
+      
 
       // hide site info div
       document.getElementById("SiteInfo").style.display = "none";

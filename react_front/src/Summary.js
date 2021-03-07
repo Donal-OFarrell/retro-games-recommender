@@ -18,7 +18,6 @@ class MoreInfoPopUp extends Component{
 
     componentDidMount () {
 
-    console.log("MoreInfoPopUp component did mount")
 
     let summary = this.props.summary_pass; 
     
@@ -26,7 +25,7 @@ class MoreInfoPopUp extends Component{
     console.log(summary.length);
 
     if (summary.includes('Sorry no summary') || summary.length < 400){
-        console.log("no constriction or popup")
+
         this.setState({text_rendered:summary })
     }
 
@@ -37,11 +36,11 @@ class MoreInfoPopUp extends Component{
 }
 
     moreInfoHandler() {
-        console.log("more info handler triggered");
+
         
         let more_info_copy = this.state.more_info;
         let more_info_inverse = !more_info_copy;
-        console.log("more_info_inverse",more_info_inverse)
+
 
         
 
