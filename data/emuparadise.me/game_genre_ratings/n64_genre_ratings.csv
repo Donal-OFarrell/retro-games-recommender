@@ -1,0 +1,788 @@
+console,title,average_rating,rating_count,genres
+n64,007 - GoldenEye (Europe),4.41,540,['First-Person Shooter']
+n64,007 - GoldenEye (Japan),4.48,252,['First-Person Shooter']
+n64,007 - GoldenEye (USA),4.38,5590,['First-Person Shooter']
+n64,"007 - The World Is Not Enough (Europe) (En,Fr,De)",4.48,73,"['Action', 'First-Person Shooter']"
+n64,007 - The World Is Not Enough (USA),4.61,276,"['Action', 'First-Person Shooter']"
+n64,"1080 Snowboarding (Europe) (En,Ja,Fr,De)",3.99,159,"['Sports', 'Snowboarding/Skiing']"
+n64,"1080 Snowboarding (Japan, USA) (En,Ja)",4.41,85,"['Sports', 'Snowboarding/Skiing']"
+n64,"40 Winks (Europe) (En,Es,It) (Proto)",4.59,49,"['Action', 'Adventure', 'Platformer']"
+n64,64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan),4.56,27,[]
+n64,64 Hanafuda - Tenshi no Yakusoku (Japan),4.54,13,['Card Game']
+n64,64 Oozumou (Japan),4.89,9,[]
+n64,64 Oozumou 2 (Japan),4.86,14,[]
+n64,64 Trump Collection - Alice no Wakuwaku Trump World (Japan),1.73,52,[]
+n64,"AeroFighters Assault (Europe) (En,Fr,De)",4.73,48,"['Simulation', 'Flight Simulator']"
+n64,AeroFighters Assault (USA),4.25,105,"['Simulation', 'Flight Simulator']"
+n64,"AeroGauge (Europe) (En,Fr,De)",4.78,32,"['Action', 'Driving/Racing']"
+n64,AeroGauge (Japan) (Kiosk Demo),4.8,5,"['Action', 'Driving/Racing']"
+n64,AeroGauge (Japan) (Rev A),3,22,"['Action', 'Driving/Racing']"
+n64,AeroGauge (USA),4.54,35,"['Action', 'Driving/Racing']"
+n64,AI Shougi 3 (Japan),4.33,9,[]
+n64,Aidyn Chronicles - The First Mage (Europe),4.25,32,['Role-Playing']
+n64,Aidyn Chronicles - The First Mage (USA),4.58,77,['Role-Playing']
+n64,Air Boarder 64 (Europe),4.55,22,[]
+n64,Air Boarder 64 (Japan),5,9,[]
+n64,Akumajou Dracula Mokushiroku - Real Action Adventure (Japan),4.25,20,[]
+n64,Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan),4.52,21,[]
+n64,"All Star Tennis '99 (Europe) (En,Fr,De,Es,It)",4.05,19,['Sports']
+n64,All Star Tennis '99 (USA),4.67,15,['Sports']
+n64,All-Star Baseball '99 (Europe),4.3,10,"['Sports', 'Simulation', 'Baseball']"
+n64,All-Star Baseball '99 (USA),4.53,15,"['Sports', 'Simulation', 'Baseball']"
+n64,All-Star Baseball 2000 (Europe),4.76,17,"['Sports', 'Simulation', 'Baseball']"
+n64,All-Star Baseball 2000 (USA),4.23,26,"['Sports', 'Simulation', 'Baseball']"
+n64,All-Star Baseball 2001 (USA),4.24,79,"['Sports', 'Simulation', 'Baseball']"
+n64,Armorines - Project S.W.A.R.M. (Europe),4.33,21,"['Action', 'First-Person Shooter']"
+n64,Armorines - Project S.W.A.R.M. (Germany),3.33,12,"['Action', 'First-Person Shooter']"
+n64,Armorines - Project S.W.A.R.M. (USA),4.42,33,"['Action', 'First-Person Shooter']"
+n64,Army Men - Air Combat (USA),4.25,53,"['Action', 'Strategy']"
+n64,"Army Men - Sarge's Heroes (Europe) (En,Fr,De)",4.45,31,['Action']
+n64,Army Men - Sarge's Heroes (USA),4.36,239,['Action']
+n64,Army Men - Sarge's Heroes 2 (USA),4.2,158,['Action']
+n64,Asteroids Hyper 64 (USA),4.39,18,"['Action', 'Shooter']"
+n64,Automobili Lamborghini (Europe),4.44,27,['Driving/Racing']
+n64,Automobili Lamborghini (USA),4.46,39,['Driving/Racing']
+n64,Baku Bomberman (Japan),4.6,75,['Action']
+n64,Baku Bomberman 2 (Japan),4.39,75,['Action']
+n64,Bakuretsu Muteki Bangaioh (Japan),4.94,16,[]
+n64,Bakushou Jinsei 64 - Mezase! Resort Ou (Japan),4.93,15,[]
+n64,Banjo to Kazooie no Daibouken (Japan),4.54,79,[]
+n64,Banjo to Kazooie no Daibouken 2 (Japan),4.52,98,[]
+n64,"Banjo-Kazooie (Europe) (En,Fr,De)",4.62,766,"['Action', 'Adventure', 'Platformer']"
+n64,Banjo-Kazooie (USA),4.54,2744,"['Action', 'Adventure', 'Platformer']"
+n64,Banjo-Kazooie (USA) (Rev A),4.61,99,"['Action', 'Adventure', 'Platformer']"
+n64,Banjo-Tooie (Australia),4.31,32,"['Platformer', 'Action-Adventure']"
+n64,"Banjo-Tooie (Europe) (En,Fr,De,Es)",4.49,635,"['Platformer', 'Action-Adventure']"
+n64,Banjo-Tooie (USA),4.5,1825,"['Platformer', 'Action-Adventure']"
+n64,Bass Rush - ECOGEAR PowerWorm Championship (Japan),5,7,[]
+n64,Bassmasters 2000 (USA),5,16,['Fishing']
+n64,Batman Beyond - Return of the Joker (USA),4.46,59,"['Action', 'Adventure', 'Brawler']"
+n64,"Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",4.09,35,"['Action', 'Adventure', 'Brawler']"
+n64,"BattleTanx - Global Assault (Europe) (En,Fr,De)",4.29,21,['Action']
+n64,BattleTanx - Global Assault (USA),4.56,124,['Action']
+n64,BattleTanx (USA),4.57,158,"['Action', 'Vehicular Combat']"
+n64,Battlezone - Rise of the Black Dogs (USA),4.44,55,"['Action', 'Strategy']"
+n64,"Beetle Adventure Racing! (Europe) (En,Fr,De)",4.55,29,"['Action', 'Driving/Racing']"
+n64,Beetle Adventure Racing! (Japan),4.56,9,"['Action', 'Driving/Racing']"
+n64,"Beetle Adventure Racing! (USA) (En,Fr,De)",4.55,212,"['Action', 'Driving/Racing']"
+n64,Big Mountain 2000 (USA),4.64,11,['Snowboarding/Skiing']
+n64,Bio F.R.E.A.K.S. (Europe),5,10,[]
+n64,Bio F.R.E.A.K.S. (USA),4.58,31,[]
+n64,Biohazard 2 (Japan),4.43,163,['Action-Adventure']
+n64,"Blast Corps (Europe) (En,De)",4.45,33,"['Action', 'Driving/Racing', 'Puzzle']"
+n64,Blast Corps (USA),4.3,56,"['Action', 'Driving/Racing', 'Puzzle']"
+n64,Blast Corps (USA) (Rev A),4.82,11,"['Action', 'Driving/Racing', 'Puzzle']"
+n64,Blastdozer (Japan),4.54,26,[]
+n64,"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",4.77,13,['Action']
+n64,Blues Brothers 2000 (USA),4.53,15,['Action']
+n64,"Body Harvest (Europe) (En,Fr,De)",4.59,37,['Action-Adventure']
+n64,Body Harvest (USA),4.52,236,['Action-Adventure']
+n64,Bokujou Monogatari 2 (Japan),4.55,64,[]
+n64,Bomberman 64 - The Second Attack! (USA),4.53,113,['Action']
+n64,Bomberman 64 (Europe),4.52,174,['Action']
+n64,Bomberman 64 (Japan) (Arcade Edition),3.94,48,['Action']
+n64,Bomberman 64 (USA),4.36,335,['Action']
+n64,Bomberman Hero - Mirian Oujo wo Sukue! (Japan),4.93,15,[]
+n64,Bomberman Hero (Europe),4.57,147,"['Action', 'Platformer']"
+n64,Bomberman Hero (USA),4.37,102,"['Action', 'Platformer']"
+n64,Bottom of the 9th (USA),4.33,12,['Sports']
+n64,Brunswick Circuit Pro Bowling (USA),4.86,7,['Sports']
+n64,"Buck Bumble (Europe) (En,Fr,De,Es,It)",5,21,"['Action', 'Shooter']"
+n64,Buck Bumble (Japan),5,4,"['Action', 'Shooter']"
+n64,Buck Bumble (USA),4.17,23,"['Action', 'Shooter']"
+n64,"Bug's Life, A (Europe)",5,15,"['Action', 'Platformer']"
+n64,"Bug's Life, A (France)",4.63,8,"['Action', 'Platformer']"
+n64,"Bug's Life, A (Germany)",4.88,16,"['Action', 'Platformer']"
+n64,"Bug's Life, A (Italy)",4.44,9,"['Action', 'Platformer']"
+n64,"Bug's Life, A (USA)",4.58,156,"['Action', 'Platformer']"
+n64,Bust-A-Move '99 (USA),4.05,22,"['Strategy', 'Puzzle']"
+n64,Bust-A-Move 2 - Arcade Edition (Europe),4.53,15,"['Action', 'Puzzle']"
+n64,Bust-A-Move 2 - Arcade Edition (USA),4,35,"['Action', 'Puzzle']"
+n64,Bust-A-Move 3 DX (Europe),3.82,22,[]
+n64,California Speed (USA),4.55,88,['Driving/Racing']
+n64,"Carmageddon 64 (Europe) (En,Fr,De,Es)",4.17,24,"['Driving/Racing', 'Vehicular Combat']"
+n64,"Carmageddon 64 (Europe) (En,Fr,Es,It)",3.67,12,"['Driving/Racing', 'Vehicular Combat']"
+n64,Carmageddon 64 (USA),4.02,50,"['Driving/Racing', 'Vehicular Combat']"
+n64,"Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",4.61,252,['Action']
+n64,Castlevania - Legacy of Darkness (USA),3.76,350,['Action']
+n64,"Castlevania (Europe) (En,Fr,De)",4.45,77,"['Action', 'Adventure']"
+n64,Castlevania (USA),4.5,210,"['Action', 'Adventure']"
+n64,Castlevania (USA) (Rev B),4.74,23,"['Action', 'Adventure']"
+n64,Centre Court Tennis (Europe),3.84,19,['Sports']
+n64,Chameleon Twist (Europe),4.82,11,"['Adventure', 'Platformer']"
+n64,Chameleon Twist (Japan),5,9,"['Adventure', 'Platformer']"
+n64,Chameleon Twist (USA),4.35,34,"['Adventure', 'Platformer']"
+n64,Chameleon Twist 2 (Europe),4.42,12,['Platformer']
+n64,Chameleon Twist 2 (Japan),4.5,8,['Platformer']
+n64,Chameleon Twist 2 (USA),4.41,34,['Platformer']
+n64,Charlie Blast's Territory (Europe),5,6,['Strategy']
+n64,Charlie Blast's Territory (USA),5,7,['Strategy']
+n64,Chopper Attack (Europe),4.73,11,['Action']
+n64,Chopper Attack (USA),5,17,['Action']
+n64,Choro Q 64 (Japan),4.38,32,[]
+n64,Choro Q 64 II - Hacha Mecha Grand Prix Race (Japan),4.34,29,[]
+n64,Chou Kuukan Nighter Pro Yakyuu King (Japan),4.43,7,[]
+n64,Chou Kuukan Nighter Pro Yakyuu King 2 (Japan),4.38,13,[]
+n64,Chou Snobo Kids (Japan),5,6,[]
+n64,City-Tour GP - Zennihon GT Senshuken (Japan),4.13,8,[]
+n64,Clay Fighter - Sculptor's Cut (USA),4.62,29,[]
+n64,Clay Fighter 63 1-3 (Europe),4.47,627,[]
+n64,Clay Fighter 63 1-3 (USA),4.47,665,[]
+n64,Clay Fighter 63 1-3 (USA) (Beta),4.47,620,[]
+n64,"Command & Conquer (Europe) (En,Fr)",4.6,25,['Real-Time Strategy']
+n64,Command & Conquer (Germany),4.85,33,['Real-Time Strategy']
+n64,Command & Conquer (USA),4.53,276,['Real-Time Strategy']
+n64,Conker's Bad Fur Day (Europe),4.59,466,"['Platformer', 'Action-Adventure']"
+n64,Conker's Bad Fur Day (USA),4.4,4926,"['Platformer', 'Action-Adventure']"
+n64,Cruis'n Exotica (USA),4.41,56,['Driving/Racing']
+n64,Cruis'n USA (Europe),4.67,42,"['Action', 'Driving/Racing']"
+n64,Cruis'n USA (USA),4.5,227,"['Action', 'Driving/Racing']"
+n64,Cruis'n USA (USA) (Rev A),4.25,16,"['Action', 'Driving/Racing']"
+n64,Cruis'n USA (USA) (Rev B),4.16,25,"['Action', 'Driving/Racing']"
+n64,Cruis'n World (Europe),4.66,29,['Driving/Racing']
+n64,Cruis'n World (USA),4.35,213,['Driving/Racing']
+n64,Custom Robo (Japan),4.56,77,['Fighting']
+n64,Custom Robo V2 (Japan),4.57,215,['Fighting']
+n64,CyberTiger (Europe),5,10,[]
+n64,CyberTiger (USA),4.73,15,[]
+n64,"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",4.54,24,[]
+n64,Dance Dance Revolution - Disney Dancing Museum (Japan),4.71,14,"['Simulation', 'Music/Rhythm']"
+n64,Dark Rift (Europe),4.8,10,['Fighting']
+n64,Dark Rift (USA),4.26,31,['Fighting']
+n64,Deadly Arts (USA),4.55,20,['Action']
+n64,Defi au Tetris Magique (France),5,6,[]
+n64,Densha de Go! 64 (Japan),4.56,64,"['Driving/Racing', 'Simulation']"
+n64,Derby Stallion 64 (Japan),4.39,18,[]
+n64,Derby Stallion 64 (Japan) (Beta),5,8,[]
+n64,"Destruction Derby 64 (Europe) (En,Fr,De)",4.48,40,"['Driving/Racing', 'Simulation', 'Vehicular Combat']"
+n64,Destruction Derby 64 (USA),4.57,277,"['Driving/Racing', 'Simulation', 'Vehicular Combat']"
+n64,Dezaemon 3D (Japan),4.75,16,['Action']
+n64,"Diddy Kong Racing (Europe) (En,Fr,De)",4.53,283,['Driving/Racing']
+n64,"Diddy Kong Racing (Europe) (En,Fr,De) (Rev A)",4.43,93,['Driving/Racing']
+n64,Diddy Kong Racing (Japan),4.59,179,['Driving/Racing']
+n64,"Diddy Kong Racing (USA) (En,Fr)",4.46,1254,['Driving/Racing']
+n64,"Diddy Kong Racing (USA) (En,Fr) (Rev A)",3.87,301,['Driving/Racing']
+n64,"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",4.6,92,"['Action', 'Platformer']"
+n64,"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",4.46,85,"['Action', 'Platformer']"
+n64,Doom 64 (Europe),4.55,226,['First-Person Shooter']
+n64,Doom 64 (Japan),4.76,17,['First-Person Shooter']
+n64,Doom 64 (USA),4.57,383,['First-Person Shooter']
+n64,Doom 64 (USA) (Rev A),4.3,37,['First-Person Shooter']
+n64,Doraemon - Nobita to 3tsu no Seireiseki (Japan),4.56,48,[]
+n64,Doraemon 2 - Nobita to Hikari no Shinden (Japan),3.85,68,['Platformer']
+n64,Doraemon 3 - Nobita no Machi SOS! (Japan),3.92,571,['Platformer']
+n64,Doubutsu no Mori (Japan),4.63,4051,['Simulation']
+n64,Dual Heroes (Europe),4.3,10,['Action']
+n64,Dual Heroes (Japan),4.14,7,['Action']
+n64,Dual Heroes (USA),4.44,16,['Action']
+n64,"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",4.39,38,"['Action', 'Adventure']"
+n64,"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta)",5,9,"['Action', 'Adventure']"
+n64,Duke Nukem - Zero Hour (Europe),4.57,152,"['Action', 'Shooter']"
+n64,Duke Nukem - Zero Hour (France),5,8,"['Action', 'Shooter']"
+n64,Duke Nukem - Zero Hour (USA),4.39,104,"['Action', 'Shooter']"
+n64,Duke Nukem 64 (Europe),4.58,64,['First-Person Shooter']
+n64,Duke Nukem 64 (France),4.4,20,['First-Person Shooter']
+n64,Duke Nukem 64 (USA),4.51,136,['First-Person Shooter']
+n64,"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",4.29,69,"['Action', 'Platformer']"
+n64,Earthworm Jim 3D (USA),4.47,70,"['Action', 'Platformer']"
+n64,ECW Hardcore Revolution (Europe),4.82,11,"['Sports', 'Wrestling']"
+n64,ECW Hardcore Revolution (USA),3.84,75,"['Sports', 'Wrestling']"
+n64,Eikou no Saint Andrews (Japan),3.43,14,['Golf']
+n64,Elmo's Letter Adventure (USA),4.65,23,['Educational']
+n64,Elmo's Number Journey (USA),4.92,13,['Educational']
+n64,Eltale Monsters (Japan),4.64,11,"['Adventure', 'Role-Playing']"
+n64,Excitebike 64 (Europe),4.71,28,['Driving/Racing']
+n64,Excitebike 64 (Japan),4.74,31,['Driving/Racing']
+n64,Excitebike 64 (USA),4.48,139,['Driving/Racing']
+n64,Excitebike 64 (USA) (Kiosk Demo),5,8,['Driving/Racing']
+n64,"Extreme-G (Europe) (En,Fr,De,Es,It)",4.5,131,['Driving/Racing']
+n64,Extreme-G (Japan),4.56,9,['Driving/Racing']
+n64,Extreme-G (USA),4.62,108,['Driving/Racing']
+n64,"Extreme-G XG2 (Europe) (En,Fr,De,Es,It)",4.09,32,['Driving/Racing']
+n64,Extreme-G XG2 (Japan),4.88,8,['Driving/Racing']
+n64,Extreme-G XG2 (USA),4.5,52,['Driving/Racing']
+n64,F-1 World Grand Prix (Europe),4.22,1318,"['Driving/Racing', 'Simulation']"
+n64,F-1 World Grand Prix (France),4.23,1288,"['Driving/Racing', 'Simulation']"
+n64,F-1 World Grand Prix (Germany),4.22,1250,"['Driving/Racing', 'Simulation']"
+n64,F-1 World Grand Prix (Japan),4.22,1285,"['Driving/Racing', 'Simulation']"
+n64,F-1 World Grand Prix (USA),4.24,1352,"['Driving/Racing', 'Simulation']"
+n64,"F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",4.45,681,"['Driving/Racing', 'Simulation']"
+n64,"F1 Pole Position 64 (Europe) (En,Fr,De)",4.8,15,"['Driving/Racing', 'Simulation']"
+n64,"F1 Pole Position 64 (USA) (En,Fr,De)",3,39,"['Driving/Racing', 'Simulation']"
+n64,"F1 Racing Championship (Europe) (En,Fr,De,Es,It)",4.44,52,[]
+n64,Famista 64 (Japan),4.45,11,[]
+n64,FIFA - Road to World Cup 98 - World Cup heno Michi (Japan),4.12,26,[]
+n64,"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",4.34,85,"['Sports', 'Soccer']"
+n64,"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",4.55,64,"['Sports', 'Soccer']"
+n64,"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",4.39,139,"['Sports', 'Simulation', 'Soccer']"
+n64,"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",4.38,108,"['Sports', 'Simulation', 'Soccer']"
+n64,"FIFA Soccer 64 (Europe) (En,Fr,De)",3.34,67,"['Sports', 'Soccer']"
+n64,"FIFA Soccer 64 (USA) (En,Fr,De)",4.5,40,"['Sports', 'Soccer']"
+n64,Fighter Destiny 2 (USA),4.26,34,['Fighting']
+n64,Fighters Destiny (Europe),4.56,16,['Fighting']
+n64,Fighters Destiny (France),4.13,8,['Fighting']
+n64,Fighters Destiny (Germany),4.5,10,['Fighting']
+n64,Fighters Destiny (USA),4.7,50,['Fighting']
+n64,Fighting Cup (Japan),5,11,[]
+n64,Fighting Force 64 (Europe),4.57,28,"['Action', 'Fighting', 'Brawler']"
+n64,Fighting Force 64 (USA),4.6,362,"['Action', 'Fighting', 'Brawler']"
+n64,Flying Dragon (Europe),4.67,27,"['Action', 'Fighting']"
+n64,Flying Dragon (USA),4.43,54,"['Action', 'Fighting']"
+n64,"Forsaken 64 (Europe) (En,Fr,Es,It)",4.59,22,[]
+n64,Forsaken 64 (Germany),4.29,14,[]
+n64,Forsaken 64 (USA),4.61,31,[]
+n64,Fox Sports College Hoops '99 (USA),4.8,10,"['Sports', 'Basketball']"
+n64,Frogger 2 (USA) (Rev A) (Alpha),4.63,32,[]
+n64,Fushigi no Dungeon Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan),4.64,403,[]
+n64,G.A.S.P!! Fighters' NEXTream (Europe),4.73,22,[]
+n64,G.A.S.P!! Fighters' NEXTream (Japan),4.29,14,[]
+n64,Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan),4.59,254,[]
+n64,Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan),4.59,193,[]
+n64,Ganbare! Nippon! Olympics 2000 (Japan),4.86,7,[]
+n64,Gauntlet Legends (Europe),4.71,35,"['Role-Playing', 'Brawler']"
+n64,Gauntlet Legends (Japan),5,6,"['Role-Playing', 'Brawler']"
+n64,Gauntlet Legends (USA),4.52,197,"['Role-Playing', 'Brawler']"
+n64,Getter Love!! Cho Renai Party Game (Japan),4.87,23,[]
+n64,"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",4.95,19,"['Action', 'Platformer']"
+n64,"Gex 3 - Deep Cover Gecko (Europe) (Fr,De)",4.35,17,"['Action', 'Platformer']"
+n64,Gex 3 - Deep Cover Gecko (USA),4.72,43,"['Action', 'Platformer']"
+n64,Gex 64 - Enter the Gecko (Europe),4.43,21,"['Action', 'Adventure', 'Platformer']"
+n64,Gex 64 - Enter the Gecko (USA),4.64,67,"['Action', 'Adventure', 'Platformer']"
+n64,"Glover (Europe) (En,Fr,De)",4.72,29,['Action-Adventure']
+n64,Glover (USA),4.57,180,['Action-Adventure']
+n64,Goemon - Mononoke Sugoroku (Japan),4.93,29,['Strategy']
+n64,Goemon's Great Adventure (USA),4.62,154,"['Action', 'Adventure']"
+n64,Golden Nugget 64 (USA),4.64,11,['Simulation']
+n64,"GT64 - Championship Edition (Europe) (En,Fr,De)",4.38,24,[]
+n64,GT64 - Championship Edition (USA),4.72,29,[]
+n64,Hamster Monogatari 64 (Japan),4.7,10,"['Role-Playing', 'Simulation', 'Minigame Collection']"
+n64,Harukanaru Augusta - Masters '98 (Japan),4.83,6,[]
+n64,Harvest Moon 64 (USA),4.54,830,"['Role-Playing', 'Simulation']"
+n64,Heiwa Pachinko World 64 (Japan),5,4,[]
+n64,"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",4.16,62,"['Action', 'Adventure']"
+n64,Hercules - The Legendary Journeys (USA),4.03,38,"['Action', 'Adventure']"
+n64,Hexen (Europe),4.05,19,"['Action', 'First-Person Shooter']"
+n64,Hexen (France),4.6,5,"['Action', 'First-Person Shooter']"
+n64,Hexen (Germany),5,8,"['Action', 'First-Person Shooter']"
+n64,Hexen (Japan),4.67,6,"['Action', 'First-Person Shooter']"
+n64,Hexen (USA),4.56,48,"['Action', 'First-Person Shooter']"
+n64,"Hey You, Pikachu! (USA)",4.21,132,"['Simulation', 'Action-Adventure']"
+n64,Hiryuu no Ken Twin (Japan),4.61,128,[]
+n64,Holy Magic Century (Europe),4.18,33,"['Adventure', 'Role-Playing']"
+n64,Holy Magic Century (France),3.89,9,"['Adventure', 'Role-Playing']"
+n64,Holy Magic Century (Germany),4.67,36,"['Adventure', 'Role-Playing']"
+n64,"Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",4.08,38,"['Action', 'Driving/Racing']"
+n64,Hot Wheels - Turbo Racing (USA),3.88,132,"['Action', 'Driving/Racing']"
+n64,HSV Adventure Racing! (Australia),3.81,27,"['Action', 'Driving/Racing']"
+n64,Human Grand Prix - The New Generation (Japan),4.71,7,"['Driving/Racing', 'Simulation']"
+n64,"Hybrid Heaven (Europe) (En,Fr,De)",4.71,28,"['Action', 'Adventure', 'Role-Playing']"
+n64,Hybrid Heaven (Japan),4.29,7,"['Action', 'Adventure', 'Role-Playing']"
+n64,Hybrid Heaven (USA),4.59,68,"['Action', 'Adventure', 'Role-Playing']"
+n64,Hydro Thunder (Europe),4.77,13,"['Action', 'Driving/Racing']"
+n64,Hydro Thunder (France),5,6,"['Action', 'Driving/Racing']"
+n64,Hydro Thunder (USA),4.31,78,"['Action', 'Driving/Racing']"
+n64,Hyper Olympics in Nagano 64 (Japan),4.73,11,[]
+n64,Ide Yosuke no Mahjong Juku (Japan),4.17,6,[]
+n64,Iggy-kun no Bura Bura Poyon (Japan),4.4,5,[]
+n64,Iggy's Reckin' Balls (Europe),4.78,9,"['Driving/Racing', 'Puzzle', 'Platformer']"
+n64,Iggy's Reckin' Balls (USA),4.5,26,"['Driving/Racing', 'Puzzle', 'Platformer']"
+n64,In-Fisherman - Bass Hunter 64 (Europe),4.13,8,[]
+n64,In-Fisherman - Bass Hunter 64 (USA),4.75,12,[]
+n64,Indiana Jones and the Infernal Machine (USA),4.33,85,"['Action', 'Adventure']"
+n64,Indy Racing 2000 (USA),4.87,15,"['Driving/Racing', 'Simulation']"
+n64,International Superstar Soccer '98 (Europe),4.56,34,['Sports']
+n64,International Superstar Soccer '98 (USA),4.82,44,['Sports']
+n64,"International Superstar Soccer 2000 (Europe) (En,De)",4.55,47,['Sports']
+n64,"International Superstar Soccer 2000 (Europe) (Fr,It)",4.63,63,['Sports']
+n64,"International Superstar Soccer 2000 (USA) (En,Es)",4.6,131,['Sports']
+n64,International Superstar Soccer 64 (Europe),4.38,60,"['Sports', 'Soccer']"
+n64,International Superstar Soccer 64 (USA),4.39,114,"['Sports', 'Soccer']"
+n64,"International Track & Field - Summer Games (Europe) (En,Fr,De)",4.88,16,[]
+n64,International Track & Field 2000 (USA),4.54,13,"['Sports', 'Track & Field']"
+n64,Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan),4.45,645,[]
+n64,J.League Dynamite Soccer 64 (Japan),4.56,9,[]
+n64,J.League Eleven Beat 1997 (Japan),4.56,9,[]
+n64,J.League Live 64 (Japan),4.57,7,[]
+n64,J.League Tactics Soccer (Japan),4.4,5,[]
+n64,J.League Tactics Soccer (Japan) (Rev A),4.4,5,[]
+n64,Jangou Simulation Mahjong Dou 64 (Japan),4.33,6,[]
+n64,Jeopardy! (USA),3.7,10,[]
+n64,Jeremy McGrath Supercross 2000 (Europe),5,8,"['Sports', 'Driving/Racing']"
+n64,Jeremy McGrath Supercross 2000 (USA),4.64,11,"['Sports', 'Driving/Racing']"
+n64,"Jet Force Gemini (Europe) (En,Fr,De,Es)",4.48,260,"['Action', 'Shooter', 'Platformer']"
+n64,Jet Force Gemini (USA),4.14,343,"['Action', 'Shooter', 'Platformer']"
+n64,Jet Force Gemini (USA) (Kiosk Demo),4.64,11,"['Action', 'Shooter', 'Platformer']"
+n64,Jikkyou G1 Stable (Japan),5,22,[]
+n64,Jikkyou J.League 1999 - Perfect Striker 2 (Japan),4.82,17,[]
+n64,Jikkyou J.League Perfect Striker (Japan),4.55,20,[]
+n64,Jikkyou Powerful Pro Yakyuu 2000 (Japan),4.67,24,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev A),4.22,18,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 4 (Japan),5,13,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev A),4.78,9,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 5 (Japan),4.65,20,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev B),5,7,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu 6 (Japan),4.45,64,['Baseball']
+n64,Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan),4.3,20,[]
+n64,Jikkyou World Soccer - World Cup France '98 (Japan),4.67,12,[]
+n64,Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A),4.83,6,[]
+n64,Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B),5,5,[]
+n64,Jikkyou World Soccer 3 (Japan),5,8,[]
+n64,Jikuu Senshi Turok (Japan),4.9,10,[]
+n64,Jinsei Game 64 (Japan),4.53,17,[]
+n64,"John Romero's Daikatana (Europe) (En,Fr,De)",3.9,21,"['Action', 'Role-Playing', 'Shooter', 'First-Person Shooter']"
+n64,John Romero's Daikatana (Japan),4.43,7,"['Action', 'Role-Playing', 'Shooter', 'First-Person Shooter']"
+n64,John Romero's Daikatana (USA),3.71,24,"['Action', 'Role-Playing', 'Shooter', 'First-Person Shooter']"
+n64,Kakutou Denshou - F-Cup Maniax (Japan),4.4,10,[]
+n64,Ken Griffey Jr.'s Slugfest (USA),4.75,51,"['Sports', 'Baseball']"
+n64,Killer Instinct Gold (Europe),4.61,120,['Fighting']
+n64,Killer Instinct Gold (USA),4.34,950,['Fighting']
+n64,Killer Instinct Gold (USA) (Rev A),4.36,47,['Fighting']
+n64,Killer Instinct Gold (USA) (Rev B),4.56,169,['Fighting']
+n64,King Hill 64 - Extreme Snowboarding (Japan),4.71,7,[]
+n64,Kiratto Kaiketsu! 64 Tanteidan (Japan),4.13,8,[]
+n64,Knife Edge - Nose Gunner (Europe),4.43,7,"['Action', 'Shooter']"
+n64,Knife Edge - Nose Gunner (Japan),3.56,9,"['Action', 'Shooter']"
+n64,Knife Edge - Nose Gunner (USA),4.92,12,"['Action', 'Shooter']"
+n64,Knockout Kings 2000 (Europe),5,11,['Sports']
+n64,Knockout Kings 2000 (USA),4.68,31,['Sports']
+n64,Kobe Bryant in NBA Courtside (Europe),5,12,"['Sports', 'Basketball']"
+n64,Kobe Bryant's NBA Courtside (USA),4.58,24,[]
+n64,Last Legion UX (Japan),4.79,14,['Platformer']
+n64,"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",4.46,39,['Driving/Racing']
+n64,"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",4.1,96,['Driving/Racing']
+n64,Let's Smash (Japan),5,6,[]
+n64,"Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",4.77,13,[]
+n64,Lode Runner 3-D (Japan),4.63,8,[]
+n64,Lode Runner 3-D (USA),4.62,13,[]
+n64,Mace - The Dark Age (Europe),4.69,32,['Fighting']
+n64,Mace - The Dark Age (USA),4.52,241,['Fighting']
+n64,Madden Football 64 (Europe),4,16,"['Sports', 'Simulation', 'Football']"
+n64,Madden Football 64 (USA),3.76,17,"['Sports', 'Simulation', 'Football']"
+n64,Madden NFL 2000 (USA),4.58,12,"['Sports', 'Simulation', 'Football']"
+n64,Madden NFL 2001 (USA),5,8,"['Sports', 'Simulation', 'Football']"
+n64,Madden NFL 2002 (USA),4.5,34,"['Sports', 'Simulation', 'Football']"
+n64,Madden NFL 99 (Europe),3.9,10,"['Sports', 'Simulation', 'Football']"
+n64,Madden NFL 99 (USA),4.23,13,"['Sports', 'Simulation', 'Football']"
+n64,Magical Tetris Challenge (Europe),4.58,12,"['Adventure', 'Puzzle']"
+n64,Magical Tetris Challenge (Germany),5,6,"['Adventure', 'Puzzle']"
+n64,Magical Tetris Challenge (USA),4.53,32,"['Adventure', 'Puzzle']"
+n64,Magical Tetris Challenge featuring Mickey (Japan),4.75,8,[]
+n64,Mahjong 64 (Japan),4,11,[]
+n64,Mahjong Hourouki Classic (Japan),4.33,6,[]
+n64,Mahjong Master (Japan),4.38,8,[]
+n64,Major League Baseball featuring Ken Griffey Jr. (Europe),5,13,[]
+n64,Major League Baseball featuring Ken Griffey Jr. (USA),4.21,34,[]
+n64,Mega Man 64 (USA),4.38,283,"['Adventure', 'Role-Playing', 'Platformer']"
+n64,"Mia Hamm Soccer 64 (USA) (En,Es)",4.88,40,['Soccer']
+n64,Michael Owen's World League Soccer 2000 (Europe),3.52,23,[]
+n64,Mickey no Racing Challenge USA (Japan),4.38,16,[]
+n64,"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",4.53,34,['Driving/Racing']
+n64,Mickey's Speedway USA (USA),4.44,95,['Driving/Racing']
+n64,"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",4.8,25,['Driving/Racing']
+n64,Micro Machines 64 Turbo (USA),4.7,27,['Driving/Racing']
+n64,Midway's Greatest Arcade Hits Vol. 1 (USA),4.46,634,[]
+n64,Mike Piazza's StrikeZone (USA),4.2,10,[]
+n64,Milo's Astro Lanes (Europe),4.71,7,"['Sports', 'Simulation', 'Bowling']"
+n64,Milo's Astro Lanes (USA),4.88,8,"['Sports', 'Simulation', 'Bowling']"
+n64,Mischief Makers (Europe),4.46,115,"['Action', 'Platformer']"
+n64,Mischief Makers (USA),4.36,273,"['Action', 'Platformer']"
+n64,Mission Impossible (Europe),4.71,31,['Action']
+n64,Mission Impossible (France),5,10,['Action']
+n64,Mission Impossible (Germany),4.68,19,['Action']
+n64,Mission Impossible (Italy),4.89,9,['Action']
+n64,Mission Impossible (Spain),4.43,75,['Action']
+n64,Mission Impossible (USA),4.34,67,['Action']
+n64,"Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)",4.58,88,"['Driving/Racing', 'Simulation']"
+n64,Monaco Grand Prix (USA),4.6,20,"['Sports', 'Driving/Racing']"
+n64,Monopoly (USA),4.21,70,"['Strategy', 'Trivia/Board Game']"
+n64,"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",4.23,31,['Driving/Racing']
+n64,Monster Truck Madness 64 (USA),4.6,35,['Driving/Racing']
+n64,Morita Shougi 64 (Japan),4.18,11,[]
+n64,Mortal Kombat 4 (Europe),4.13,264,['Fighting']
+n64,Mortal Kombat 4 (USA),4.27,1894,['Fighting']
+n64,Mortal Kombat Mythologies - Sub-Zero (Europe),3.84,126,"['Fighting', 'Platformer', 'Action-Adventure']"
+n64,Mortal Kombat Mythologies - Sub-Zero (USA),3.99,159,"['Fighting', 'Platformer', 'Action-Adventure']"
+n64,Mortal Kombat Trilogy (Europe),4.29,177,['Fighting']
+n64,Mortal Kombat Trilogy (USA),4.28,1129,['Fighting']
+n64,Mortal Kombat Trilogy (USA) (Rev B),4.13,105,['Fighting']
+n64,"MRC - Multi Racing Championship (Europe) (En,Fr,De)",4.8,15,['Driving/Racing']
+n64,MRC - Multi Racing Championship (Japan),4.5,10,['Driving/Racing']
+n64,MRC - Multi Racing Championship (USA),4.75,40,['Driving/Racing']
+n64,Ms. Pac-Man - Maze Madness (USA),3.44,285,['Action']
+n64,"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)",4.56,101,[]
+n64,Mystical Ninja Starring Goemon (Europe),4.57,138,"['Action', 'Adventure', 'Role-Playing']"
+n64,Mystical Ninja Starring Goemon (USA),4.65,291,"['Action', 'Adventure', 'Role-Playing']"
+n64,Nagano Winter Olympics '98 (Europe),4.3,10,"['Sports', 'Snowboarding/Skiing']"
+n64,Nagano Winter Olympics '98 (USA),4.4,20,"['Sports', 'Snowboarding/Skiing']"
+n64,Namco Museum 64 (USA),4.51,41,[]
+n64,NASCAR 2000 (USA),4.01,76,"['Driving/Racing', 'Simulation']"
+n64,"NASCAR 99 (Europe) (En,Fr,De)",4.8,10,['Driving/Racing']
+n64,NASCAR 99 (USA),4.89,19,['Driving/Racing']
+n64,NBA Courtside 2 featuring Kobe Bryant (USA),4.69,29,"['Sports', 'Basketball']"
+n64,NBA Hangtime (Europe),4.5,20,['Basketball']
+n64,NBA Hangtime (USA),4.69,48,['Basketball']
+n64,NBA in the Zone '98 (Japan),4.6,5,"['Sports', 'Basketball']"
+n64,NBA in the Zone '98 (USA),5,7,"['Sports', 'Basketball']"
+n64,NBA in the Zone '99 (USA),5,5,"['Sports', 'Basketball']"
+n64,NBA in the Zone 2 (Japan),4.86,7,"['Sports', 'Simulation', 'Basketball']"
+n64,NBA in the Zone 2000 (Europe),4.67,6,"['Sports', 'Simulation', 'Basketball']"
+n64,NBA in the Zone 2000 (USA),4.85,13,"['Sports', 'Simulation', 'Basketball']"
+n64,NBA Jam 2000 (Europe),4.5,8,['Basketball']
+n64,NBA Jam 2000 (USA),3.96,51,['Basketball']
+n64,NBA Jam 99 (Europe),3.92,12,"['Sports', 'Simulation', 'Basketball']"
+n64,NBA Jam 99 (USA),4.34,29,"['Sports', 'Simulation', 'Basketball']"
+n64,"NBA Live 2000 (Europe) (En,Fr,De,Es)",4.29,21,"['Sports', 'Simulation', 'Basketball']"
+n64,"NBA Live 2000 (USA) (En,Fr,De,Es)",4.25,44,"['Sports', 'Simulation', 'Basketball']"
+n64,"NBA Live 99 (Europe) (En,Fr,De,Es,It)",5,7,"['Sports', 'Simulation', 'Basketball']"
+n64,"NBA Live 99 (USA) (En,Fr,De,Es,It)",4.6,15,"['Sports', 'Simulation', 'Basketball']"
+n64,NBA Pro 98 (Europe),4.6,5,[]
+n64,NBA Pro 99 (Europe),5,6,[]
+n64,NBA Showtime - NBA on NBC (USA),4.76,25,"['Sports', 'Basketball']"
+n64,Neon Genesis Evangelion (Japan),4.61,98,"['Action', 'Minigame Collection']"
+n64,"New Tetris, The (Europe)",4.43,14,['Puzzle']
+n64,"New Tetris, The (USA)",4.62,50,['Puzzle']
+n64,NFL Blitz - Special Edition (USA),4.47,17,['Football']
+n64,NFL Blitz (USA),4.71,17,"['Action', 'Sports']"
+n64,NFL Blitz 2000 (USA),4.61,23,"['Action', 'Sports', 'Football']"
+n64,NFL Blitz 2001 (USA),4.61,31,"['Action', 'Sports', 'Football']"
+n64,NFL Quarterback Club 2000 (Europe),4.6,5,['Sports']
+n64,NFL Quarterback Club 2000 (USA),4.17,6,['Sports']
+n64,NFL Quarterback Club 2001 (USA),4.89,9,"['Sports', 'Football']"
+n64,NFL Quarterback Club 98 (Europe),4.4,5,"['Sports', 'Simulation', 'Football']"
+n64,NFL Quarterback Club 98 (USA),4.75,8,"['Sports', 'Simulation', 'Football']"
+n64,NFL Quarterback Club 99 (Europe),5,4,['Sports']
+n64,NFL Quarterback Club 99 (USA),4.71,7,['Sports']
+n64,"NHL 99 (Europe) (En,De,Sv,Fi)",4.86,7,"['Sports', 'Simulation', 'Hockey']"
+n64,NHL 99 (USA),4.8,20,"['Sports', 'Simulation', 'Hockey']"
+n64,NHL Blades of Steel '99 (USA),4.5,10,"['Sports', 'Hockey']"
+n64,NHL Breakaway 98 (Europe),4.88,8,"['Sports', 'Hockey']"
+n64,NHL Breakaway 98 (USA),4.29,7,"['Sports', 'Hockey']"
+n64,NHL Breakaway 99 (Europe),4.88,8,"['Sports', 'Hockey']"
+n64,NHL Breakaway 99 (USA),4.18,11,"['Sports', 'Hockey']"
+n64,NHL Pro 99 (Europe),4.5,8,[]
+n64,Nightmare Creatures (USA),4.31,70,"['Action', 'Adventure']"
+n64,Nintama Rantarou 64 Game Gallery (Japan),4.27,11,[]
+n64,Nintendo 64 Box + Cart,3.68,34,[]
+n64,Nintendo All-Star! Dairantou Smash Brothers (Japan),4.51,767,[]
+n64,No-Intro 20060522 Nintendo 64 Screenshots,4.3,706,[]
+n64,"Nuclear Strike 64 (Europe) (En,Fr)",4.81,16,[]
+n64,Nuclear Strike 64 (Germany),4.75,8,[]
+n64,Nuclear Strike 64 (USA),4.43,127,[]
+n64,Nushi Zuri 64 - Shiokaze ni Notte (Japan),4.85,20,[]
+n64,Nushi Zuri 64 (Japan),4.83,24,[]
+n64,Nushi Zuri 64 (Japan) (Rev A),4.43,7,[]
+n64,"O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)",4.5,10,[]
+n64,"O.D.T. (USA) (En,Fr,Es) (Proto)",4.6,15,[]
+n64,Off Road Challenge (Europe),5,10,"['Sports', 'Driving/Racing']"
+n64,Off Road Challenge (USA),4.25,44,"['Sports', 'Driving/Racing']"
+n64,Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev A),4.62,146,"['Strategy', 'Role-Playing']"
+n64,Ogre Battle 64 - Person of Lordly Caliber (USA),4.64,498,"['Strategy', 'Role-Playing']"
+n64,"Olympic Hockey Nagano '98 (Europe) (En,Fr,De,Es)",5,8,[]
+n64,Olympic Hockey Nagano '98 (Japan),4.67,6,[]
+n64,Olympic Hockey Nagano '98 (USA),4.83,6,[]
+n64,Onegai Monsters (Japan),4.63,8,[]
+n64,"Operation WinBack (Europe) (En,Fr,De,Es,It)",4.56,57,"['Action', 'Strategy', 'Shooter']"
+n64,Pachinko 365 Nichi (Japan),5,6,[]
+n64,Paperboy (Europe),5,5,"['Action', 'Driving/Racing']"
+n64,Paperboy (USA),4.85,13,"['Action', 'Driving/Racing']"
+n64,Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan),5,7,[]
+n64,PD Ultraman Battle Collection 64 (Japan),4.53,32,[]
+n64,Penny Racers (Europe),4.18,11,['Driving/Racing']
+n64,Penny Racers (USA),4.58,19,['Driving/Racing']
+n64,"Perfect Dark (Europe) (En,Fr,De,Es,It)",4.55,327,"['Action', 'Shooter', 'First-Person Shooter']"
+n64,Perfect Dark (Japan),4.32,74,"['Action', 'Shooter', 'First-Person Shooter']"
+n64,Perfect Dark (USA),4.47,1270,"['Action', 'Shooter', 'First-Person Shooter']"
+n64,Perfect Dark (USA) (Rev A),4.63,80,"['Action', 'Shooter', 'First-Person Shooter']"
+n64,PGA European Tour (USA),4.8,10,"['Sports', 'Simulation', 'Golf']"
+n64,"PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",4.3,10,[]
+n64,Pikachuu Genki de Chuu (Japan),3.73,70,[]
+n64,"Pilotwings 64 (Europe) (En,Fr,De)",4.66,35,"['Action', 'Strategy', 'Sports', 'Driving/Racing', 'Simulation']"
+n64,Pilotwings 64 (Japan),4.36,36,"['Action', 'Strategy', 'Sports', 'Driving/Racing', 'Simulation']"
+n64,Pilotwings 64 (USA),4.59,99,"['Action', 'Strategy', 'Sports', 'Driving/Racing', 'Simulation']"
+n64,Polaris SnoCross (USA),4.27,22,"['Sports', 'Driving/Racing']"
+n64,Power League 64 (Japan),4.29,7,['Baseball']
+n64,Power Rangers - Lightspeed Rescue (Europe),3.57,35,"['Action', 'Adventure', 'Puzzle', 'Brawler']"
+n64,Power Rangers - Lightspeed Rescue (USA),4.11,62,"['Action', 'Adventure', 'Puzzle', 'Brawler']"
+n64,"Powerpuff Girls, The - Chemical X-Traction (USA)",2.15,168,"['Action', 'Fighting']"
+n64,Premier Manager 64 (Europe),4.56,16,[]
+n64,Pro Mahjong Kiwame 64 (Japan),4.04,104,[]
+n64,Pro Mahjong Kiwame 64 (Japan) (Rev A),4.4,5,[]
+n64,Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan),4.4,5,[]
+n64,Puyo Puyo 4 - Puyo Puyon Party (Japan),4.57,47,[]
+n64,Puyo Puyo Sun 64 (Japan),4.62,26,[]
+n64,Puzzle Bobble 64 (Japan),4.65,23,[]
+n64,Quake 64 (Europe),4.53,133,[]
+n64,Quake 64 (USA),4.5,68,[]
+n64,Quake II (Europe),4.1,39,"['Action', 'First-Person Shooter']"
+n64,Quake II (USA),4.57,72,"['Action', 'First-Person Shooter']"
+n64,Quest 64 (USA),4.57,602,"['Adventure', 'Role-Playing']"
+n64,Racing Simulation 2 (Germany),4.41,17,"['Driving/Racing', 'Simulation']"
+n64,Rakuga Kids (Europe),4.8,10,[]
+n64,Rakuga Kids (Japan),5,6,[]
+n64,Rally '99 (Japan),4.33,12,['Driving/Racing']
+n64,Rally Challenge 2000 (USA),4.51,37,['Driving/Racing']
+n64,Rampage - World Tour (Europe),4.5,16,['Action']
+n64,Rampage - World Tour (USA),4.62,81,['Action']
+n64,Rampage 2 - Universal Tour (Europe),4.68,25,['Action']
+n64,Rampage 2 - Universal Tour (USA),4.58,62,['Action']
+n64,"Rat Attack! (Europe) (En,Fr,De,Es,It,Nl)",4.58,12,"['Action', 'Puzzle']"
+n64,"Rat Attack! (USA) (En,Fr,De,Es,It,Nl)",4.64,11,"['Action', 'Puzzle']"
+n64,"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",4.49,245,['Platformer']
+n64,"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",4.32,456,['Platformer']
+n64,"Razmoket, Les - La Chasse aux Tresors (France)",5,9,[]
+n64,Razor Freestyle Scooter (USA),4.22,9,['Action']
+n64,"Re-Volt (Europe) (En,Fr,De,Es)",4.74,42,"['Action', 'Driving/Racing', 'Vehicular Combat']"
+n64,Re-Volt (USA),4.44,48,"['Action', 'Driving/Racing', 'Vehicular Combat']"
+n64,Ready 2 Rumble Boxing - Round 2 (USA),4.82,50,"['Sports', 'Boxing']"
+n64,"Ready 2 Rumble Boxing (Europe) (En,Fr,De)",4.14,14,"['Sports', 'Fighting', 'Boxing']"
+n64,Ready 2 Rumble Boxing (USA),4.71,42,"['Sports', 'Fighting', 'Boxing']"
+n64,"Resident Evil 2 (Europe) (En,Fr)",4.35,462,['Action-Adventure']
+n64,Resident Evil 2 (USA) (Rev A),4.37,1852,['Action-Adventure']
+n64,Road Rash 64 (Europe),4.27,62,"['Action', 'Driving/Racing']"
+n64,Road Rash 64 (USA),4.61,252,"['Action', 'Driving/Racing']"
+n64,"Roadsters Trophy (Europe) (En,Fr,De,Es,It,Nl)",5,15,[]
+n64,"Roadsters Trophy (USA) (En,Fr,Es)",4.57,28,[]
+n64,Robot Ponkottsu 64 - 7tsu no Umi no Caramel (Japan),5,9,[]
+n64,Robotech - Crystal Dreams (USA) (Proto),4.48,25,[]
+n64,Robotron 64 (Europe),5,5,['Action']
+n64,Robotron 64 (USA),4.69,16,['Action']
+n64,"Rocket - Robot on Wheels (Europe) (En,Fr,De)",4.55,20,"['Action', 'Platformer']"
+n64,Rocket - Robot on Wheels (USA),4.48,230,"['Action', 'Platformer']"
+n64,Rockman Dash - Hagane no Boukenshin (Japan),3.75,24,[]
+n64,RR64 - Ridge Racer 64 (Europe),4.55,44,[]
+n64,RR64 - Ridge Racer 64 (USA),4.41,111,[]
+n64,RTL World League Soccer 2000 (Germany),4.4,10,[]
+n64,Rugrats - Die grosse Schatzsuche (Germany),4.92,12,[]
+n64,Rugrats - Scavenger Hunt (USA),4.1,21,['Puzzle']
+n64,Rugrats - Treasure Hunt (Europe),4.89,9,['Puzzle']
+n64,Rugrats in Paris - The Movie (Europe),4.8,10,[]
+n64,Rugrats in Paris - The Movie (USA),3.31,32,[]
+n64,"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",4.32,25,['Driving/Racing']
+n64,Rush 2 - Extreme Racing USA (USA),4.59,114,['Driving/Racing']
+n64,"S.C.A.R.S. (Europe) (En,Fr,De)",4.62,13,"['Action', 'Driving/Racing', 'Vehicular Combat']"
+n64,S.C.A.R.S. (USA),4.45,22,"['Action', 'Driving/Racing', 'Vehicular Combat']"
+n64,Saikyou Habu Shougi (Japan),4.67,9,[]
+n64,"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",4.24,62,['Driving/Racing']
+n64,"San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",4.52,82,['Driving/Racing']
+n64,"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",4.47,92,"['Action', 'Driving/Racing']"
+n64,San Francisco Rush 2049 (USA),4.43,124,"['Action', 'Driving/Racing']"
+n64,Scooby-Doo! - Classic Creep Capers (Europe),4.45,29,['Adventure']
+n64,Scooby-Doo! - Classic Creep Capers (USA),4.34,77,['Adventure']
+n64,SD Hiryuu no Ken Densetsu (Japan),4.84,51,[]
+n64,"Shadow Man (Europe) (En,Es,It)",4.5,118,['Action-Adventure']
+n64,Shadow Man (France),4.44,16,['Action-Adventure']
+n64,Shadow Man (Germany),4.76,25,['Action-Adventure']
+n64,Shadow Man (USA),4.59,105,['Action-Adventure']
+n64,Shadowgate 64 - Trials of the Four Towers (Europe),4.85,13,"['Adventure', 'Role-Playing']"
+n64,"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)",4.44,9,"['Adventure', 'Role-Playing']"
+n64,"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",4.19,26,"['Adventure', 'Role-Playing']"
+n64,Shadowgate 64 - Trials of the Four Towers (Japan),4.78,9,"['Adventure', 'Role-Playing']"
+n64,"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",4.62,45,"['Adventure', 'Role-Playing']"
+n64,Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan),5,8,[]
+n64,Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan),4.4,15,[]
+n64,Sim City 2000 (Japan),4.38,26,"['Strategy', 'Simulation']"
+n64,Snobo Kids (Japan),5,8,[]
+n64,Snow Speeder (Japan),4.33,6,[]
+n64,Snowboard Kids (Europe),4.5,42,"['Sports', 'Driving/Racing', 'Snowboarding/Skiing']"
+n64,Snowboard Kids (USA),4.52,111,"['Sports', 'Driving/Racing', 'Snowboarding/Skiing']"
+n64,Snowboard Kids 2 (Europe),4.68,37,"['Sports', 'Driving/Racing', 'Snowboarding/Skiing']"
+n64,Snowboard Kids 2 (USA),4.55,255,"['Sports', 'Driving/Racing', 'Snowboarding/Skiing']"
+n64,Sonic Wings Assault (Japan),4.4,25,[]
+n64,South Park - Chef's Luv Shack (Europe),4.31,13,"['Trivia/Board Game', 'Minigame Collection', 'Puzzle']"
+n64,South Park - Chef's Luv Shack (USA),4.42,24,"['Trivia/Board Game', 'Minigame Collection', 'Puzzle']"
+n64,"South Park (Europe) (En,Fr,Es)",4.31,61,"['Action', 'First-Person Shooter']"
+n64,South Park (Germany),3.41,17,"['Action', 'First-Person Shooter']"
+n64,South Park (USA),4.43,141,"['Action', 'First-Person Shooter']"
+n64,South Park Rally (Europe),4.68,37,['Driving/Racing']
+n64,South Park Rally (USA),4.37,52,['Driving/Racing']
+n64,Space Dynamites (Japan),4.43,7,[]
+n64,Space Invaders (USA),4.45,38,"['Action', 'Shooter', ""Shoot 'Em Up""]"
+n64,"SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",4.03,220,[]
+n64,SpaceStation Silicon Valley (Japan) (Proto),4.6,5,[]
+n64,SpaceStation Silicon Valley (USA),4.44,78,[]
+n64,Spider-Man (USA),4.16,669,"['Action', 'Adventure', 'Brawler']"
+n64,Star Soldier - Vanishing Earth (Japan),5,7,"[""Shoot 'Em Up""]"
+n64,Star Soldier - Vanishing Earth (USA),4.6,124,"[""Shoot 'Em Up""]"
+n64,Star Twins (Japan),4.39,18,[]
+n64,"Star Wars - Rogue Squadron (Europe) (En,Fr,De)",4.6,122,"['Action', 'Shooter']"
+n64,"Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev A)",4.53,43,"['Action', 'Shooter']"
+n64,Star Wars - Rogue Squadron (USA),4.45,826,"['Action', 'Shooter']"
+n64,Star Wars - Shadows of the Empire (Europe),4.55,80,"['Action', 'Adventure', 'Shooter']"
+n64,Star Wars - Shadows of the Empire (USA),4.1,241,"['Action', 'Adventure', 'Shooter']"
+n64,Star Wars - Shadows of the Empire (USA) (Rev A),4.4,42,"['Action', 'Adventure', 'Shooter']"
+n64,Star Wars - Shadows of the Empire (USA) (Rev B),4.83,24,"['Action', 'Adventure', 'Shooter']"
+n64,Star Wars - Shutsugeki! Rogue Chuutai (Japan),4.77,13,[]
+n64,Star Wars - Teikoku no Kage (Japan),4.16,19,[]
+n64,Star Wars Episode I - Battle for Naboo (Europe),4.63,38,"['Action', 'Vehicular Combat']"
+n64,Star Wars Episode I - Battle for Naboo (USA),4.01,73,"['Action', 'Vehicular Combat']"
+n64,"Star Wars Episode I - Racer (Europe) (En,Fr,De)",4.56,156,['Driving/Racing']
+n64,Star Wars Episode I - Racer (Japan),5,13,['Driving/Racing']
+n64,Star Wars Episode I - Racer (USA),4.52,459,['Driving/Racing']
+n64,StarCraft 64 (Europe),4.54,65,['Real-Time Strategy']
+n64,StarCraft 64 (USA),4.46,191,['Real-Time Strategy']
+n64,StarCraft 64 (USA) (Beta),4.19,21,['Real-Time Strategy']
+n64,"Starshot - Space Circus Fever (Europe) (En,Fr,De)",4.7,10,"['Action', 'Adventure']"
+n64,"Starshot - Space Circus Fever (USA) (En,Fr,Es)",4.7,27,"['Action', 'Adventure']"
+n64,Stunt Racer 64 (USA),4.59,34,['Driving/Racing']
+n64,Super B-Daman - Battle Phoenix 64 (Japan),4.5,10,['Light-Gun Shooter']
+n64,Super Bowling (Japan),4.4,5,['Sports']
+n64,Super Bowling (USA),5,9,['Sports']
+n64,Super Robot Spirits (Japan),5,21,[]
+n64,Super Robot Taisen 64 (Japan),4.46,158,[]
+n64,Super Speed Race 64 (Japan),4.39,18,[]
+n64,"Supercross 2000 (Europe) (En,Fr,De)",4.4,15,"['Sports', 'Driving/Racing']"
+n64,Supercross 2000 (USA),4.6,15,"['Sports', 'Driving/Racing']"
+n64,"Superman (Europe) (En,Fr,De,Es,It,Nl)",2.75,44,"['Action', 'Adventure']"
+n64,"Superman (USA) (En,Fr,Es)",4.62,7044,"['Action', 'Adventure']"
+n64,Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan),3.57,14,[]
+n64,Tarzan (Europe),4.39,57,"['Action', 'Adventure', 'Platformer']"
+n64,Tarzan (France),4.5,16,"['Action', 'Adventure', 'Platformer']"
+n64,Tarzan (Germany),4.6,10,"['Action', 'Adventure', 'Platformer']"
+n64,Tarzan (USA),4.01,224,"['Action', 'Adventure', 'Platformer']"
+n64,"Taz Express (Europe) (En,Fr,De,Es,It,Nl)",4.73,37,"['Action', 'Adventure']"
+n64,Telefoot Soccer 2000 (France),4.5,10,[]
+n64,Tetris 64 (Japan),4.46,26,['Puzzle']
+n64,Tetrisphere (Europe),4.69,13,['Puzzle']
+n64,Tetrisphere (USA),4.62,37,['Puzzle']
+n64,TG Rally 2 (Europe),4.58,12,[]
+n64,"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",4.64,11,"['Action', 'Adventure']"
+n64,Tigger's Honey Hunt (USA),4.64,25,"['Action', 'Adventure']"
+n64,"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",4.41,34,[]
+n64,Tom and Jerry in Fists of Furry (USA),4.13,138,[]
+n64,Tom Clancy's Rainbow Six (Europe),4.53,19,"['Action', 'Strategy', 'Simulation', 'First-Person Shooter']"
+n64,Tom Clancy's Rainbow Six (France),4.67,6,"['Action', 'Strategy', 'Simulation', 'First-Person Shooter']"
+n64,Tom Clancy's Rainbow Six (Germany),4.44,9,"['Action', 'Strategy', 'Simulation', 'First-Person Shooter']"
+n64,Tom Clancy's Rainbow Six (USA),4.3,81,"['Action', 'Strategy', 'Simulation', 'First-Person Shooter']"
+n64,"Tonic Trouble (Europe) (En,Fr,De,Es,It)",4.77,35,"['Action', 'Platformer']"
+n64,Tonic Trouble (USA) (Rev A),4.61,72,"['Action', 'Platformer']"
+n64,Tony Hawk's Pro Skater (Europe),4.85,33,['Skateboarding']
+n64,Tony Hawk's Pro Skater (USA),4.33,169,['Skateboarding']
+n64,Tony Hawk's Pro Skater (USA) (Rev A),4.41,29,['Skateboarding']
+n64,Tony Hawk's Pro Skater 2 (Europe),4.2,41,['Skateboarding']
+n64,Tony Hawk's Pro Skater 2 (USA),4.59,138,['Skateboarding']
+n64,Tony Hawk's Pro Skater 3 (USA),4.44,135,"['Action', 'Sports', 'Skateboarding']"
+n64,Toon Panic (Japan) (Proto),5,9,[]
+n64,Top Gear Hyper-Bike (Europe),5,12,[]
+n64,Top Gear Hyper-Bike (Japan),3.88,8,[]
+n64,Top Gear Hyper-Bike (USA),4,11,[]
+n64,Top Gear Overdrive (Europe),4.83,12,['Driving/Racing']
+n64,Top Gear Overdrive (Japan),5,7,['Driving/Racing']
+n64,Top Gear Overdrive (USA),4.64,73,['Driving/Racing']
+n64,Top Gear Rally (Europe),4.88,17,"['Sports', 'Driving/Racing']"
+n64,Top Gear Rally (Japan),4.4,5,"['Sports', 'Driving/Racing']"
+n64,Top Gear Rally (USA),4.58,64,"['Sports', 'Driving/Racing']"
+n64,Top Gear Rally 2 (Europe),4.62,13,"['Sports', 'Driving/Racing']"
+n64,Top Gear Rally 2 (Japan),4.71,7,"['Sports', 'Driving/Racing']"
+n64,Top Gear Rally 2 (USA),4.7,33,"['Sports', 'Driving/Racing']"
+n64,Toy Story 2 (Europe),4.2,111,"['Platformer', 'Action-Adventure']"
+n64,Toy Story 2 (France),4.4,15,"['Platformer', 'Action-Adventure']"
+n64,Toy Story 2 (Germany),4.76,21,"['Platformer', 'Action-Adventure']"
+n64,Toy Story 2 (USA),4.51,737,"['Platformer', 'Action-Adventure']"
+n64,Transformers - Beast Wars Metals 64 (Japan),4.64,11,[]
+n64,Transformers - Beast Wars Transmetals (USA),3.87,38,"['Action', 'Fighting']"
+n64,Triple Play 2000 (USA),4.65,17,"['Sports', 'Simulation', 'Baseball']"
+n64,Tsumi to Batsu - Hoshi no Keishousha (Japan),4.8,50,[]
+n64,Turok - Dinosaur Hunter (Europe),4.54,52,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (Europe) (Rev A),4.82,11,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (Europe) (Rev B),4.57,7,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (Germany),4.69,16,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (USA),4.5,182,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (USA) (Rev A),3.8,20,['First-Person Shooter']
+n64,Turok - Dinosaur Hunter (USA) (Rev B),4.52,23,['First-Person Shooter']
+n64,Turok - Legenden des Verlorenen Landes (Germany),4.23,13,[]
+n64,Turok - Rage Wars (Europe),4.83,18,"['Action', 'First-Person Shooter']"
+n64,"Turok - Rage Wars (Europe) (En,Fr,It)",4.88,8,"['Action', 'First-Person Shooter']"
+n64,Turok - Rage Wars (USA),4.55,249,"['Action', 'First-Person Shooter']"
+n64,Turok 2 - Seeds of Evil (Europe),4.62,55,['First-Person Shooter']
+n64,"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)",4.69,45,['First-Person Shooter']
+n64,Turok 2 - Seeds of Evil (Europe) (Kiosk Demo),5,6,['First-Person Shooter']
+n64,Turok 2 - Seeds of Evil (Germany),4.61,18,['First-Person Shooter']
+n64,Turok 2 - Seeds of Evil (USA),4.51,188,['First-Person Shooter']
+n64,Turok 2 - Seeds of Evil (USA) (Kiosk Demo),4.56,9,['First-Person Shooter']
+n64,Turok 2 - Seeds of Evil (USA) (Rev A),4.55,22,['First-Person Shooter']
+n64,Turok 3 - Shadow of Oblivion (Europe),4.36,39,['First-Person Shooter']
+n64,Turok 3 - Shadow of Oblivion (USA),4.59,86,['First-Person Shooter']
+n64,Turok 3 - Shadow of Oblivion (USA) (Beta),4.67,12,['First-Person Shooter']
+n64,Twisted Edge - Extreme Snowboarding (Europe),4.75,8,"['Action', 'Sports']"
+n64,Twisted Edge - Extreme Snowboarding (USA),4.75,12,"['Action', 'Sports']"
+n64,Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan),4.5,8,[]
+n64,"V-Rally Edition 99 (Europe) (En,Fr,De)",4.73,26,"['Sports', 'Driving/Racing', 'Simulation']"
+n64,V-Rally Edition 99 (Japan),5,6,"['Sports', 'Driving/Racing', 'Simulation']"
+n64,V-Rally Edition 99 (USA),4.5,28,"['Sports', 'Driving/Racing', 'Simulation']"
+n64,Vigilante 8 - 2nd Offense (Europe),4.35,31,['Vehicular Combat']
+n64,Vigilante 8 - 2nd Offense (USA),4.5,100,['Vehicular Combat']
+n64,Vigilante 8 (Europe),4.22,50,['Vehicular Combat']
+n64,Vigilante 8 (France),4.71,7,['Vehicular Combat']
+n64,Vigilante 8 (Germany),4.28,18,['Vehicular Combat']
+n64,Vigilante 8 (USA),4.5,132,['Vehicular Combat']
+n64,Violence Killer - Turok New Generation (Japan),4.42,12,['First-Person Shooter']
+n64,"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",4.25,8,['Strategy']
+n64,"Virtual Chess 64 (USA) (En,Fr,Es)",4.5,14,['Strategy']
+n64,Virtual Pool 64 (Europe),4.46,13,"['Sports', 'Simulation', 'Billiards']"
+n64,Virtual Pool 64 (USA),4.94,16,"['Sports', 'Simulation', 'Billiards']"
+n64,Virtual Pro Wrestling 2 - Oudou Keishou (Japan),4.63,134,[]
+n64,Virtual Pro Wrestling 64 (Japan),4.3,37,['Wrestling']
+n64,Waialae Country Club - True Golf Classics (Europe),3.83,6,[]
+n64,Waialae Country Club - True Golf Classics (Europe) (Rev A),4.57,7,[]
+n64,Waialae Country Club - True Golf Classics (USA),4.86,7,[]
+n64,Waialae Country Club - True Golf Classics (USA) (Rev A),5,6,[]
+n64,War Gods (Europe),5,8,['Fighting']
+n64,War Gods (USA),4.56,25,['Fighting']
+n64,"Wave Race 64 (Europe) (En,De)",4.56,188,"['Action', 'Sports', 'Driving/Racing']"
+n64,Wave Race 64 (Japan),5,21,"['Action', 'Sports', 'Driving/Racing']"
+n64,Wave Race 64 (Japan) (Rev A),4.9,10,"['Action', 'Sports', 'Driving/Racing']"
+n64,Wave Race 64 (Japan) (Rev B) (Shindou Edition),4.12,17,"['Action', 'Sports', 'Driving/Racing']"
+n64,Wave Race 64 (USA),4.59,137,"['Action', 'Sports', 'Driving/Racing']"
+n64,Wave Race 64 (USA) (Rev A),4.62,21,"['Action', 'Sports', 'Driving/Racing']"
+n64,"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",4.63,8,['Hockey']
+n64,Wayne Gretzky's 3D Hockey '98 (USA),5,15,['Hockey']
+n64,"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",4.5,8,"['Sports', 'Hockey']"
+n64,Wayne Gretzky's 3D Hockey (Japan),4.33,6,"['Sports', 'Hockey']"
+n64,Wayne Gretzky's 3D Hockey (USA),4.92,13,"['Sports', 'Hockey']"
+n64,Wayne Gretzky's 3D Hockey (USA) (Rev A),5,6,"['Sports', 'Hockey']"
+n64,WCW Backstage Assault (USA),4.33,15,"['Sports', 'Wrestling']"
+n64,WCW Mayhem (Europe),4.57,14,"['Action', 'Wrestling']"
+n64,WCW Mayhem (USA),4.65,31,"['Action', 'Wrestling']"
+n64,WCW Nitro (USA),4.28,18,"['Sports', 'Wrestling']"
+n64,WCW Nitro (USA) (Alt),3.83,6,"['Sports', 'Wrestling']"
+n64,WCW vs. nWo - World Tour (Europe),4.59,17,"['Action', 'Sports']"
+n64,WCW vs. nWo - World Tour (USA),4.42,59,"['Action', 'Sports']"
+n64,WCW vs. nWo - World Tour (USA) (Rev A),4.67,21,"['Action', 'Sports']"
+n64,WCW-nWo Revenge (Europe),4.57,23,"['Sports', 'Wrestling']"
+n64,WCW-nWo Revenge (USA),4.53,182,"['Sports', 'Wrestling']"
+n64,"Wetrix (Europe) (En,Fr,De,Es,It,Nl)",4.86,7,['Puzzle']
+n64,Wetrix (Japan),4.71,7,['Puzzle']
+n64,"Wetrix (USA) (En,Fr,De,Es,It,Nl)",4.81,16,['Puzzle']
+n64,Wheel of Fortune (USA),4.5,20,"['Trivia/Board Game', 'Puzzle']"
+n64,Wild Choppers (Japan),4.56,9,[]
+n64,WinBack - Covert Operations (USA),4.33,48,"['Action', 'Strategy', 'Shooter']"
+n64,WinBack (Japan),4.88,8,"['Action', 'Strategy', 'Shooter']"
+n64,Wipeout 64 (Europe),4.18,33,['Driving/Racing']
+n64,Wipeout 64 (USA),4.64,47,['Driving/Racing']
+n64,Wonder Project J2 - Koruro no Mori no Jozet (Japan),4.63,129,[]
+n64,"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",4.3,30,"['Sports', 'Soccer']"
+n64,"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",4.33,54,"['Sports', 'Soccer']"
+n64,"World Driver Championship (Europe) (En,Fr,De,Es,It)",4.84,25,['Driving/Racing']
+n64,World Driver Championship (USA),4.58,50,['Driving/Racing']
+n64,"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",4.7,30,"['Action', 'Strategy', 'Shooter']"
+n64,"Worms Armageddon (USA) (En,Fr,Es)",4.6,153,"['Action', 'Strategy', 'Shooter']"
+n64,WWF Attitude (Europe),4.31,29,"['Action', 'Sports', 'Wrestling']"
+n64,WWF Attitude (Germany),5,7,"['Action', 'Sports', 'Wrestling']"
+n64,WWF Attitude (USA),3.91,566,"['Action', 'Sports', 'Wrestling']"
+n64,WWF No Mercy (Europe),4.32,74,"['Sports', 'Wrestling']"
+n64,WWF No Mercy (Europe) (Rev A),4.36,28,"['Sports', 'Wrestling']"
+n64,WWF No Mercy (USA),4.35,689,"['Sports', 'Wrestling']"
+n64,WWF No Mercy (USA) (Rev A),4.46,94,"['Sports', 'Wrestling']"
+n64,WWF War Zone (Europe),4.28,25,"['Sports', 'Wrestling']"
+n64,WWF War Zone (USA),4.35,34,"['Sports', 'Wrestling']"
+n64,WWF WrestleMania 2000 (Europe),3.96,46,['Wrestling']
+n64,WWF WrestleMania 2000 (Japan),4.23,22,['Wrestling']
+n64,WWF WrestleMania 2000 (USA),4.34,234,['Wrestling']
+n64,Xena - Warrior Princess - The Talisman of Fate (Europe),4.25,20,"['Action', 'Fighting']"
+n64,Xena - Warrior Princess - The Talisman of Fate (USA),4.07,29,"['Action', 'Fighting']"
+n64,Yakouchuu II - Satsujin Kouro (Japan),4.75,8,[]
+n64,Yoshi Story (Japan),4.52,131,[]
+n64,"Yoshi's Story (Europe) (En,Fr,De)",4.32,225,"['Action', 'Adventure', 'Platformer']"
+n64,"Yoshi's Story (USA) (En,Ja)",4.45,627,"['Action', 'Adventure', 'Platformer']"
+n64,Yuke Yuke!! Trouble Makers (Japan),4.6,116,"['Action', 'Platformer']"
+n64,Zool - Majuu Tsukai Densetsu (Japan),4.6,15,[]
