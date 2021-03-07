@@ -22,8 +22,6 @@ class MoreInfoPopUp extends Component{
     let summary = this.props.summary_pass; 
     
 
-    console.log(summary.length);
-
     if (summary.includes('Sorry no summary') || summary.length < 400){
 
         this.setState({text_rendered:summary })
@@ -45,7 +43,6 @@ class MoreInfoPopUp extends Component{
         
 
         this.setState({ more_info: more_info_inverse }, () => {
-            console.log(this.state.more_info, 'more_info');
           }); 
           let summary = this.props.summary_pass;
         this.setState({
