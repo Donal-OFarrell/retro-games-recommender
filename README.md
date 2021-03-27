@@ -7,7 +7,7 @@ http://retrorecommender.com
 
 # Note on public repo
 
-Development took place using a private repo and as this contained crednetials and endpoints, we created this repo to be exposed publically. As such commit history will not reflect accurately.
+Development took place using a private repo and as this contained credentials and endpoints, we created this repo to be exposed publically. As such commit history will not reflect accurately.
 
 # Data
 
