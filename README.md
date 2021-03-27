@@ -61,15 +61,11 @@ We also attempted to run over https and we successfully managed this on the reac
 
 
 Screenshots 
-Home page
-
-Lucky Dip
-
-
-Mobile home page 
-
-
-Mobile lucky dip 
+![image](https://user-images.githubusercontent.com/55091575/112724100-809a3700-8f09-11eb-928c-82e9d270a1e0.png)
+![image](https://user-images.githubusercontent.com/55091575/112724121-9b6cab80-8f09-11eb-9070-620728f0eea8.png)
+![image](https://user-images.githubusercontent.com/55091575/112724125-a7f10400-8f09-11eb-9194-7295fa530c61.png)
+![image](https://user-images.githubusercontent.com/55091575/112724140-bb9c6a80-8f09-11eb-851a-47e3ff1f9ea7.png)
+![image](https://user-images.githubusercontent.com/55091575/112724166-dc64c000-8f09-11eb-983a-756b9e5134d4.png)
 
 
 # Future Work 
