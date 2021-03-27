@@ -7,7 +7,7 @@ http://retrorecommender.com
 
 # Note on public repo
 
-Development took place using a private repo and as this contained crednetials and enpoints, we created this repo to be exposed publically. As such commit history will not reflect accurately.
+Development took place using a private repo and as this contained crednetials and endpoints, we created this repo to be exposed publically. As such commit history will not reflect accurately.
 
 # Data
 
@@ -32,7 +32,7 @@ Django was used to produce an API which ,connects an MVC ORM model to a MySQL da
 
 # React User Interface 
 
-The React UI boasted a combination of class based stateful components as well as stateless functional components, and the more modern functional react hooks (which allow for state management in functional components). Async communications to the API were facilitated using axios. 
+The React UI boasted a combination of class based stateful components as well as stateless functional components, and the more modern functional React Hooks (which allow for state management in functional components). Async communications to the API were facilitated using axios. 
 
 The parent child progression/data flow in React components is roughly as follows 
 
@@ -51,7 +51,7 @@ The applications infrastructure is all hosted on GCP (Google Cloud Platform). Th
 
 Moving from development to production posed some challenges. 
 
-In our version of react-scripts 4.0.2, the npm run build command didn’t allow us to stipulate the location where the app was hosted by adjusting the homepage parameter in package.json (known issue: https://github.com/facebook/create-react-app/issues/8813). As such React assumed the project was hosted at root. As a result it could not retrieve the images residing on the box. A workaround was devised whereby we stipulated a .env file with the appropriate endpoint with PUBLIC_URL={http://"server ip"}. This allowed nom run build to build assuming the project was hosted at the endpoint rather than root. 
+In our version of react-scripts 4.0.2, the npm run build command didn’t allow us to stipulate the location where the app was hosted by adjusting the homepage parameter in package.json (known issue: https://github.com/facebook/create-react-app/issues/8813). As such React assumed the project was hosted at root. As a result it could not retrieve the images residing on the box. A workaround was devised whereby we stipulated a .env file with the appropriate endpoint with PUBLIC_URL={http://"server ip"}. This allowed npm run build to build assuming the project was hosted at the endpoint rather than root. 
 
 We also had to remove references to manifest.json in index.html as we could not get this to play nice with Django. 
 
