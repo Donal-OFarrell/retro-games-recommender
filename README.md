@@ -2,7 +2,8 @@
 
 http://retrorecommender.com
 
-- screenshots of site here 
+![image](https://user-images.githubusercontent.com/55091575/112724275-7c224e00-8f0a-11eb-8e4a-063e6030725e.png)
+![image](https://user-images.githubusercontent.com/55091575/112724296-96f4c280-8f0a-11eb-916a-aedb3f4c4a62.png)
 
 # Note on public repo
 
@@ -16,7 +17,7 @@ We gathered data on over 8500 games for 8 popular consoles. (Nintendo 64, PlaySt
 
 We used the Jaccard similarity coefficient to determine the similarity between games based on their genres. The Jaccard Index determines the similarity between two sample sets and is define as the size (count) of the intersection divided by the size of the union between the two sample sets. 
 
--screenshot of Jaccard Similarity 
+![image](https://user-images.githubusercontent.com/55091575/112724326-af64dd00-8f0a-11eb-8931-6b6753d1cfd9.png)
 
 We stored these results in a Matrix object which was essentially a dictionary of dictionaries. For example {game_id: 1: {2:.75, 3:1}} would indicate that the game id 1 had a similarity of .75 to game id 2 and a similarity of 1 to game id 3. We stored this Matrix as a pickle object as it was far more efficient than generating each time the website was loaded. 
 As such every game relative to our candidate games were given a value from 0 to 1 ( 1 being the closest similarity to our targets). We then compiled the top 10 recs (i.e. values closest to 1) and these become the recommendations we deliver to the user. 
@@ -57,13 +58,6 @@ We also had to remove references to manifest.json in index.html as we could not 
 We also had to adjust settings.py on django side to allow CORs traffic between the two respective boxes. 
 
 We also attempted to run over https and we successfully managed this on the react side. But when pinging the Django api, this was still served over http, so this caused an error. As such the only viable workaround to this that we could imagine if we were to retain the current infrastructure (ie 2 boxes with the Django box serving as an API), would require servicing the Django api over https. This is currently under consideration, along with potentially investigating containerisation (Docker, Kubernetes). 
-
-
-
-Screenshots 
-![image](https://user-images.githubusercontent.com/55091575/112724275-7c224e00-8f0a-11eb-8e4a-063e6030725e.png)
-![image](https://user-images.githubusercontent.com/55091575/112724296-96f4c280-8f0a-11eb-916a-aedb3f4c4a62.png)
-![image](https://user-images.githubusercontent.com/55091575/112724326-af64dd00-8f0a-11eb-8931-6b6753d1cfd9.png)
 
 
 # Future Work 
