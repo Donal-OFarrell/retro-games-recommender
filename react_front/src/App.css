@@ -75,10 +75,19 @@ input[type="text"]::-webkit-input-placeholder {
 }
 
 .SiteInfo{
-  width:60%;
+  width:80%;
   margin: auto;
-  font-size: 20px;
+  font-size: 18px;
   color:#c7d5e0;
+}
+
+.ListItems{
+   width:90%;
+   margin: auto; 
+}
+
+ul{
+  padding:0;
 }
 
 .Professor{
@@ -93,6 +102,11 @@ input[type="text"]::-webkit-input-placeholder {
   margin: auto;
 }
 
+.SelectionImages{
+    width: 125px;
+    height: 150px;
+}
+
 th{
   font-size: 18px;
   color:#c7d5e0;
@@ -101,11 +115,6 @@ th{
 
 td{
   padding: 5px;
-}
-
-.SelectionImages{
-    width: 125px;
-    height: 150px;
 }
 
 @media screen and (max-width: 700px) {
@@ -126,9 +135,13 @@ td{
       text-overflow: ellipsis;
   }
 
-  .SelectionImages{
-      width: 75px;
-      height: 90px;
+  .SiteInfo{
+    width:90%;
+    font-size: 16px;
+  }
+
+  .Professor{
+      width: 300px;
   }
 
   table, th, td, tr { 
@@ -137,4 +150,3 @@ td{
       padding:1%;
     }
 }
-

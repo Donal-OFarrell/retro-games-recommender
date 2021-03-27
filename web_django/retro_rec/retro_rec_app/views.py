@@ -8,6 +8,9 @@ import pickle
 import json
 import random
 
+def index(request):
+    pass
+
 
 @csrf_exempt
 def onLoadGameData(request):
@@ -19,6 +22,7 @@ def onLoadGameData(request):
     items = sorted(items, key=lambda i: i['name'])
 
     id_name_json = json.dumps(list(items))
+    #print(app_json)
 
     return HttpResponse(id_name_json)
 
@@ -56,7 +60,7 @@ def recommend_games(request):
         for game in body:
             target_games.append(str(game['id']))
     
-        # Get sims to target games. dictionary[game_id]:sim.
+        # Get simss to target games. dictionary[game_id]:sim.
         sims = {}
         for game_id in game_ids:
             if str(game_id) not in target_games:

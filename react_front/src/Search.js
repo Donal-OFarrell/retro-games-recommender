@@ -3,11 +3,11 @@ import { Typeahead } from 'react-bootstrap-typeahead';
 import 'react-bootstrap-typeahead/css/Typeahead.css';
 import HocWrap from './hoc/hoc_wrapper/HocWrap';
 import DisplayRecommendations from './DisplayRecommendations';
-import axios from './axios-api-connect'; 
+import axios from './axios-api-connect';
 import Spinner from './Spinner';
 import './Spinner.css';
 
-const Search = (props) =>  {
+const Search = (props) => {
   const [multiSelections, setMultiSelections] = useState([]);
   const [getRecommendations, setGetRecommendations] = useState(false);
   const [gamesData, setGamesData] = useState([]);
@@ -23,7 +23,7 @@ const Search = (props) =>  {
 
   const gameTargets = (props) => {
     setMultiSelections(props)
-    if (! getRecommendations){
+    if (!getRecommendations) {
       // only way for user to get recs button working
       // again is to change their search items. Minor flaw in that
       // if a user deletes a game and adds it back they will be able to search
@@ -34,17 +34,17 @@ const Search = (props) =>  {
   }
 
   const getRecs = (buttonType) => {
-    if ((multiSelections.length > 0 && getRecommendations) || (randomRecs && buttonType === 'random')){
-      
+    if ((multiSelections.length > 0 && getRecommendations) || (randomRecs && buttonType === 'random')) {
+
 
       // hide site info div
       document.getElementById("SiteInfo").style.display = "none";
-      
+
       // need to extinguish previous recs if you click get rec button again to show spinner 
-      if (gamesData !== []){
+      if (gamesData !== []) {
         setGamesData([]);
       }
-      setSpinnerRendered(<Spinner/>);
+      setSpinnerRendered(<Spinner />);
       // ensure user cannot multiple click on getRecommendations button
       // while it's getting recs.
       setGetRecommendations(false);
@@ -52,10 +52,10 @@ const Search = (props) =>  {
 
       // set payload to be passed to backend
       let payload = '';
-      if (buttonType ==='random'){
+      if (buttonType === 'random') {
         payload = JSON.stringify('random');
       }
-      else{
+      else {
         payload = JSON.stringify(multiSelections);
       }
 
@@ -74,63 +74,65 @@ const Search = (props) =>  {
         .catch(error => {
           setGamesData(null)
           setServerResponse(null)
-      }); 
+        });
     }
   }
-    return (
-      <div className='App'>
-        <HocWrap>
-          <div className='Header'>
-            <a href="/">
-              <h2>Retro-Recommender</h2>
-              <img
-                className='logo'
-                src={process.env.PUBLIC_URL + '/Images/' + 'logo.png'}
-                alt="logo"
-              />
-            </a>
-          </div>
-          <div className='SearchBar'>
-            <Typeahead
-              id="basic-typeahead-multiple"
-              labelKey="name"
-              multiple
-              onChange={gameTargets}
-              options={props.returned}
-              placeholder="PICK UP TO 5 GAMES..."
-              selected={multiSelections}
+  return (
+    <div className='App'>
+      <HocWrap>
+        <div className='Header'>
+          <a href="/">
+            <h2>Retro-Recommender</h2>
+            <img
+              className='logo'
+              src={process.env.PUBLIC_URL + '/images/' + 'logo.png'}
+              alt="logo"
             />
-          </div>
-          <div className='Buttons'>
-            <button type="button" id='primary' className='btn btn-primary' onClick={getRecs}>
-              GET RECOMMENDATIONS
-            </button>  
-            <button type="button" id='secondary' className='btn btn-success' onClick={() => getRecs('random')}>
-              LUCKY DIP
+          </a>
+        </div>
+        <div className='SearchBar'>
+          <Typeahead
+            id="basic-typeahead-multiple"
+            labelKey="name"
+            multiple
+            onChange={gameTargets}
+            options={props.returned}
+            placeholder="CLICK HERE TO SELECT UP TO 5 GAMES...&#128269;"
+            selected={multiSelections}
+          />
+        </div>
+        <div className='Buttons'>
+          <button type="button" id='primary' className='btn btn-primary' onClick={getRecs}>
+            GET RECOMMENDATIONS
             </button>
-          </div>  
-          <div className='SiteInfo' id='SiteInfo'>
-            <ul> Welcome to <b>The Retro-Recommender.</b> </ul>
+          <button type="button" id='secondary' className='btn btn-success' onClick={() => getRecs('random')}>
+            LUCKY DIP
+            </button>
+        </div>
+        <div className='SiteInfo' id='SiteInfo'>
+          <div className='ListItems'>
+            <ul>Welcome to <b>The Retro-Recommender.</b></ul>
             <ul>We have all the games you could ever want here...as long as what you want
-            is retro games from the SNES to the PS3 era... </ul>
+              is retro games from the SNES to the PS2 era...</ul>
             <ul><em>Pick up to 5</em> of your favourite games from the golden age
-            of gaming and the professor will recommended 10 titles worth checking out based on those choices.</ul> 
+              of gaming and the professor will recommended 10 titles worth checking out based on those choices.</ul>
             <ul>You can also try the lucky dip which will be 10 games highly rated by the professor.</ul>
+          </div>
           <img
             className='Professor'
-            src={process.env.PUBLIC_URL + '/Images/' + 'professor.png'}
+            src={process.env.PUBLIC_URL + '/images/' + 'professor.png'}
             alt="professor"
           />
-          </div> 
-          <div className='Recommendations'>
-            <DisplayRecommendations
-              data={gamesData}
-            />
-            {spinnerRendered}
-          </div>
-        </HocWrap>
-      </div>
-    );
+        </div>
+        <div className='Recommendations'>
+          <DisplayRecommendations
+            data={gamesData}
+          />
+          {spinnerRendered}
+        </div>
+      </HocWrap>
+    </div>
+  );
 };
 
 export default Search;

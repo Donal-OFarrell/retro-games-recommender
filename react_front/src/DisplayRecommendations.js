@@ -1,7 +1,6 @@
 import React, { Fragment } from "react";
 import Summary from './Summary';
 
-
 // control it all here 
 // automatically restrict them and apply it to state 
 // state{
@@ -26,7 +25,7 @@ const DisplayRecommendations = (props) => {
                             <tr>
                                 <td rowSpan="2">
                                     <img
-                                        src={process.env.PUBLIC_URL + '/Images/' + props.data[oneKey].id + '.jpg'}
+                                        src={process.env.PUBLIC_URL + '/images/' + props.data[oneKey].id + '.jpg'}
                                         alt={props.data[oneKey]['name']}
                                         className="SelectionImages"
                                     />
